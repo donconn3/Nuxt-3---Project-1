@@ -1,6 +1,6 @@
 <template>
     <div>
       <Header/>
-      <Hihglights/>
+      <Highlights/>
   </div>
 </template>
