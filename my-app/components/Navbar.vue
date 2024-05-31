@@ -12,11 +12,11 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" href="#">Home</a>
-        <a class="nav-link" href="#">Code</a>
-        <a class="nav-link" href="#">Video</a>
-        <a class="nav-link" href="#">Blog</a>
-        <a class="nav-link" href="#">About Me</a>
+        <a class="nav-link active" aria-current="page" href="/">Home</a>
+        <a class="nav-link" href="/development">Code</a>
+        <a class="nav-link" href="/digital-production">Video</a>
+        <a class="nav-link" href="/blog">Blog</a>
+        <a class="nav-link" href="/About">About Me</a>
       </div>
     </div>
   </div>
